@@ -2,12 +2,12 @@
 
 - https://github.com/GOVCERT-LU/eml_parser
   Parse eml for attachments and other artifacts
-  Requirements:
-  - Python 3.6+
     
 - https://github.com/gr33nm0nk2802/mailMeta
   Parse metadata from eml files
 
+  Requirements of this tools:
+    - Python 3.6+
 
 Other tools:
 - oletools
