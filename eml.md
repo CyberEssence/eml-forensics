@@ -12,8 +12,6 @@ https://github.com/GOVCERT-LU/eml_parser
 
 Можно использовать https://jsonformatter.org/ для более приятного форматирования
 
-https://jsonformatter.org/
-
 Далее используем chatgpt, для анализа файла
 
 Получаем следующее
